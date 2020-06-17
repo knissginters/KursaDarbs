@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
+Test set: Create Account Feature
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 43,954.04 s <<< FAILURE! - in Create Account Feature
+Adding item to the cart(Add Item to My Chart)  Time elapsed: 303.609 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+timeout
+  (Session info: chrome=75.0.3770.142)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Ginterss-MacBook-Pro.local', ip: 'fe80:0:0:0:4e0:bf21:e331:c877%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '10.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://automationpractice.com/index.php
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: /var/folders/x5/bkm8p1gd3tb...}, goog:chromeOptions: {debuggerAddress: localhost:57684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+selenide.baseUrl: http://localhost:8080
+Session ID: 62cb3e586d5292e8bef2163cbb0ad9ef
+
+Adding item to Whislist(Adding item to Whislist Feature)  Time elapsed: 43,350.195 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+timeout
+  (Session info: chrome=75.0.3770.142)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Ginterss-MacBook-Pro.local', ip: 'fe80:0:0:0:4e0:bf21:e331:c877%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '10.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://automationpractice.com/index.php
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: /var/folders/x5/bkm8p1gd3tb...}, goog:chromeOptions: {debuggerAddress: localhost:57684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+selenide.baseUrl: http://localhost:8080
+Session ID: 62cb3e586d5292e8bef2163cbb0ad9ef
+
+Adding item to Whislist(Adding item to Whislist Feature)  Time elapsed: 43,350.196 s  <<< ERROR!
+org.junit.AssumptionViolatedException: got: <false>, expected: is <true>
+
+Account creation(Create Account Feature)  Time elapsed: 300.033 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+timeout
+  (Session info: chrome=75.0.3770.142)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Ginterss-MacBook-Pro.local', ip: 'fe80:0:0:0:4e0:bf21:e331:c877%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '10.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://automationpractice.com/index.php
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: /var/folders/x5/bkm8p1gd3tb...}, goog:chromeOptions: {debuggerAddress: localhost:57684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+selenide.baseUrl: http://localhost:8080
+Session ID: 62cb3e586d5292e8bef2163cbb0ad9ef
+

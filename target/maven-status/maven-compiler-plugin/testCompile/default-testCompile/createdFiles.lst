@@ -1,0 +1,6 @@
+stepsDefinations/CreateAccountSteps.class
+stepsDefinations/Hooks.class
+stepsDefinations/NavigationSteps.class
+stepsDefinations/AddItemToCart.class
+testRunner/TestRunner.class
+stepsDefinations/AddItemToWishlist.class

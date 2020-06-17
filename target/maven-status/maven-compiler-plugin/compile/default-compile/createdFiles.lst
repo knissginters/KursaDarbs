@@ -1,0 +1,11 @@
+utils/RandomHelper.class
+general/User.class
+utils/User.class
+pages/MyAccountPage.class
+pages/BasePage.class
+pages/YourPersonalInformationPage.class
+pages/ItemsPage.class
+pages/ShoppingChartSummaryPage.class
+pages/CreateAnAccountPage.class
+pages/LandingPage.class
+pages/AuthenticationPage.class

@@ -1,6 +1,5 @@
-stepsDefinations/CreateAccountSteps.class
-stepsDefinations/Hooks.class
-stepsDefinations/NavigationSteps.class
-stepsDefinations/AddItemToCart.class
-testRunner/TestRunner.class
-stepsDefinations/AddItemToWishlist.class
+testRunner\TestRunner.class
+stepsDefinations\Hooks.class
+stepsDefinations\SearchSteps.class
+stepsDefinations\LoginSteps.class
+stepsDefinations\PrivacyPolicySteps.class

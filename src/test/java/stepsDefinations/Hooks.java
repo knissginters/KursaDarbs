@@ -1,7 +1,5 @@
 package stepsDefinations;
 import cucumber.api.Scenario;
-
-
 import cucumber.api.java.Before;
 import org.junit.After;
 import org.junit.Assume;

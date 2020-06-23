@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Terst" target="1.8" />
+      <module name="Terst" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

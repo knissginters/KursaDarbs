@@ -30,7 +30,7 @@ public class MoodeleLoginPage {
         getUsernameField().exists();
         getSubmitButton().exists();
         String text = getWarningIcon().getText();
-        if(text=="Nederīga pieslēgšanās, lūdzu, mēģiniet vēlreiz!"){
+        if(text=="Neuuurrruruur!"){
         }
 
     }
